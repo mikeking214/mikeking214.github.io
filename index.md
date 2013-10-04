@@ -1,9 +1,14 @@
 ---
-layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+layout: homepage
+
+description: "Welcome to Michael Elliot King's personal page."
+tags: [Michael, Elliot, King, McGill, robotics, personal, photography]
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: website_home.jpg
+  credit: Michael Elliot Photography
+  creditlink: http://michaelelliotphotography.com
 ---
+
+I am an undergradutate Mechanical Engineering student at McGill University.  My focus is in engineering design, specifically robotics and human computer interaction.
+
+My projects can be found <a markdown="0" href="{{ site.url }}/projects">here</a> and my CV <a markdown="0" href="{{ site.url }}/cv.pdf">here</a>.

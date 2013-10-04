@@ -7,15 +7,19 @@ body {
 	.container();
 	padding: 2em 0 3em;
 	font-family: @heading-font;
-	font-weight: 700;
-	text-transform: uppercase;
+	font-weight: 400;
+	text-transform: lowercase;
+	//font-size: 28px;
 }
 .site-name {
+	font-family: @base-font;
 	.container();
 	.grid(12,10);
 	.prefix(12,1);
 	.suffix(12,1);
 	margin-bottom: 1em;
+	font-size: 22px;
+	text-transform: capitalize;
 }
 .top-navigation {
 	.container();
@@ -53,6 +57,7 @@ body {
 		.prefix(12,1);
 		.suffix(12,1);
 		margin-bottom: 2em;
+		font-size: 20px;
 	}
 }
 #index {
@@ -64,14 +69,14 @@ body {
 	h3 {
 		margin: 0;
 		padding-bottom: .5em;
-		.font-rem(28);
+		.font-rem(36);
 		border-bottom: 1px solid lighten(@black,70);
 	}
 	article {
 		h2 {
 			margin-bottom: 4px;
-			.font-rem(20);
-			text-transform: uppercase;
+			.font-rem(24);
+			//text-transform: uppercase;
 		}
 		p {
 			.font-rem(14);
@@ -160,6 +165,10 @@ body {
 		display: inline-block;
 		margin-right: 5px;
 	}
+}
+
+#homepage {
+	font-size: 28px;
 }
 .article-wrap {
 	// Dotted line underlines for links
@@ -256,7 +265,7 @@ body {
 	}
 }
 .holder {
-	font-family: @heading-font;
+	font-family: @base-font;
 	a {
 		cursor: pointer;
 		margin: 0 5px;
@@ -327,7 +336,7 @@ body {
 	margin-bottom: 2em;
 	h4 {
 		
-		text-transform: uppercase;
+		//text-transform: uppercase;
 		margin-bottom: 0;
 	}
 	li {

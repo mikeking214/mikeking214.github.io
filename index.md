@@ -1,6 +1,5 @@
 ---
 layout: homepage
-
 description: "Welcome to Michael Elliot King's personal page."
 tags: [Michael, Elliot, King, McGill, robotics, personal, photography]
 image:

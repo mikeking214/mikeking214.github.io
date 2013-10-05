@@ -10,4 +10,4 @@ image:
   creditlink: http://michaelelliotphotography.com
 ---
 
-I'm from Cape Cod, Massachusetts, where I've lived all my life, but I am currently finishing my Mechanical Engineering degree at McGill University in Montreal.  I am passionate about engineering design and particularly interested in the fields of robotics and human computer interaction.  I also love photography & anything to do with the ocean. 
+I'm from Cape Cod, Massachusetts, where I've lived all my life, and currently finishing my Mechanical Engineering degree at McGill University in Montreal.  I am passionate about engineering design and particularly interested in the fields of robotics and human computer interaction.  I also love photography & anything to do with the ocean. 

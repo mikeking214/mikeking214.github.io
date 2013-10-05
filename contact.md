@@ -6,7 +6,7 @@ tags: [contact, information, email, phone, address, Mike, personal, Michael, Ell
 image:
   feature: website_contact.jpg
   credit: Michael Elliot Photography
-  creditlink: http://michaelelliotphotography.com
+  creditlink: http://www.michaelelliotphotography.com/bythesea/h6c12e8d0#h681ce9e3
 ---
 
 <a href="mailto:michael.king2@mail.mcgill.ca" target="_blank">michael.king2@mail.mcgill.ca</a><br><br>

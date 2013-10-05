@@ -5,7 +5,7 @@ tags: [Michael, Elliot, King, McGill, robotics, personal, photography]
 image:
   feature: website_home.jpg
   credit: Michael Elliot Photography
-  creditlink: http://michaelelliotphotography.com
+  creditlink: http://www.michaelelliotphotography.com/bythesea/h6c12e8d0#h6c12e8d0
 ---
 
 I am an undergradutate Mechanical Engineering student at McGill University.  My focus is in engineering design, specifically robotics and human computer interaction.

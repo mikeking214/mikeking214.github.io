@@ -3,7 +3,6 @@ layout: page
 permalink: /about/index.html
 title: About Me
 tags: [about, me, personal, Michael, Elliot, King, McGill]
-modified: 9-30-2013
 image:
   feature: website_about.jpg
   credit: Michael Elliot Photography

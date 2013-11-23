@@ -22,3 +22,9 @@ This year, I helped the robotics design team re-brand to McGill Robotics and exp
 #####The Competition
 
 The <a markdown="0" target="_blank" href="http://robosub.org">AUVSI Foundations's RoboSub Competition</a> in San Diego is the top international competition for university robotics teams building autonomous underwater vehicles.  The challenge is to build a fully autonomous robot that can navigate underwater and complete various tasks that involve responding to and interacting with its environment.  For example, the AUV must pass through gates, respond to light signals, locate an object near an acoustic pinger, shoot torpedoes at targets, and pick up items off the bottom.  
+
+#####*Update November 15
+
+I am excited to have finished the first iteration of the CAD of the vehicle. I'll be done with the final CAD by the end of November so we can make some drawings and get things ordered!
+
+![CAD of McGill Robotics AUV - by Michael Elliot King](/images/CAD.png "First Iteration of the AUV CAD")

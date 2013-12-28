@@ -34,6 +34,8 @@ links:
     url: /about
   - title: Projects
     url: /projects
+  -title: Articles
+    url: /articles 
   - title: Curriculum Vitæ
     url: /cv
   - title: Photography

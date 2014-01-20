@@ -41,10 +41,12 @@
 </div><!-- /#main -->
 
 <div class="footer-wrap">
+<!-- do not include because only one article and the if statement not working
+
   {% if site.related_posts.size > 0 %}<div class="related-articles">
-  <h4>My other projects: <small class="pull-right"> <!-- (<a href="{{ site.url }}/projects">View all projects</a>) --> </small></h4>
+  <h4>My other articles: <small class="pull-right">(<a href="{{ site.url }}/articles">View all articles</a>)</small></h4>
     <ul>
-    {% for post in site.related_posts limit:5 %}
+    {% for post in site.related_posts limit:3 %}
       {% assign match = false %}
       {% for category in post.categories %}
         {% if page.categories contains category %}
@@ -56,12 +58,13 @@
       {% endif %}
     {% endfor %}
     </ul>
- 
-  </div><!-- /.related-articles -->{% endif %}
+    <hr />
+  </div>{% endif %}    -->
   <footer>
     {% include footer.html %}
   </footer>
-</div><!-- /.footer-wrap -->
+
+</div>  <!-- footer wrap -->
 
 {% include scripts.html %}	        
 

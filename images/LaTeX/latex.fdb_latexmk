@@ -1,0 +1,17 @@
+# Fdb version 3
+["pdflatex"] 1389049132 "latex.tex" "latex.pdf" "latex" 1389049133
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls" 1254151887 20571 b8bd218bf2e18b4f5817ee643cd9c515 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/base/size12.clo" 1254151887 9053 a28d9b3c915d12545f3d5e7c4986be20 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty" 1254151804 14183 42a8fc761b806986eef292369afc2988 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty" 1156702488 7882 3bd78469d444e8d494e27cfd7ca92719 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty" 1156702488 2266 7054435e4584a41cf53b0a7ca624d0cb ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty" 1156702488 3153 c50e6bd54d2dd3933fc52bcf369bec4a ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg" 1278958963 3563 d35e897cae3b8c6848f6677b73370b54 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/xelatex/xetex-def/xetex.def" 1259285552 13899 9973935deb4241300a502b8fd412702b ""
+  "flower.jpg" 1389046268 799441 5177dc3e40de0281df8f6d6a2bd3c503 ""
+  "latex.aux" 1389049132 233 1a21ba0e4dd036bf1b83770c2ff77e1d ""
+  "latex.tex" 1389049131 617 33b30f6aa636cdcf54f5fe33efcda6b6 ""
+  (generated)
+  "latex.log"
+  "latex.aux"
+  "latex.pdf"

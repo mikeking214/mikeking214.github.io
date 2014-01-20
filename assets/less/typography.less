@@ -3,7 +3,7 @@
 body {
 	font-family: @base-font;
 	color: @text-color;
-	font-size: 18px;
+	font-size: @doc-font-size;
 }
 
 // Headings
@@ -28,7 +28,7 @@ h5 {
 	.font-size(20)
 }
 h6 {
-	.font-size(16);
+	.font-size(18);
 }
 
 
@@ -108,6 +108,12 @@ blockquote {
 	ol, li, p {
 		.font-size(14);
 	}
+}
+
+// Footer
+// --------------------------------------------------
+footer {
+	font-family: @base-font;
 }
 
 // Paragraphs

@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1390020778 "latex_doc.tex" "latex_doc.pdf" "latex_doc" 1390020779
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls" 1254151887 20571 b8bd218bf2e18b4f5817ee643cd9c515 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/base/size12.clo" 1254151887 9053 a28d9b3c915d12545f3d5e7c4986be20 ""
+  "latex_doc.aux" 1390020779 81 359ac72ab9315b1fdc30a045d02b9d62 ""
+  "latex_doc.tex" 1389054977 233 8d69a8ddfc2b3f042df47b1e66836221 ""
+  (generated)
+  "latex_doc.pdf"
+  "latex_doc.aux"
+  "latex_doc.log"

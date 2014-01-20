@@ -1,0 +1,28 @@
+%!TEX TS-program = xelatex
+
+\documentclass[12pt, notitlepage]{article}
+\usepackage{graphicx}
+
+\title{This is a \LaTeX\ Document}
+\author{Michael Elliot King}
+\date{\today}
+
+
+\begin{document}
+\maketitle
+
+\section{Section Heading}
+This is the default formatting for a \LaTeX\ document paragraph.  It looks like a professionally created, publishable document.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=4in]{flower.jpg}
+	\caption{This is a flower}\label{flower}
+\end{figure}
+
+This is an equation:
+\begin{equation}\label{find_root}
+		x_{1} = {{-b + \sqrt{b^{2}-4ac}} \over {2a}}
+\end{equation}
+
+\end{document}

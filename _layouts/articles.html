@@ -23,7 +23,10 @@
 </div>
 <!--  Main Content -->
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-  <h3><a href="{{ site.url}}/projects">Projects</a></h3>
+    <div id="homepage" class="article-wrap" itemprop="text">
+      {{ content }}
+    </div><!-- /.article-wrap -->
+  <h3><a href="{{ site.url}}{{ page.url }}">{{ page.title }}</a></h3>
   {% for post in site.categories.articles %}    
   <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
     <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
@@ -31,6 +34,7 @@
   </article>
   {% endfor %}
 </div><!-- /#index -->
+
 
 <div class="footer-wrap">
   <footer>

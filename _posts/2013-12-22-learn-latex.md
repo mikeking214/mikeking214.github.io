@@ -15,7 +15,7 @@ If you've seen a university level math or science assignment or read something p
 
 ###What is <img style="height:30px" src="/images/latex_word.png">?
 
-LaTeX (pronounced lay-tek, NOT lay-teks) is a free, digital typesetting system, used by professionals to produces beautiful, high-quality, publishable documents, typically in .pdf format. Rather than typing your document into a word processor, like Microsoft Word, the content of the document is written in plain text in a text editor, along with some code to provide instructions.  Everything is compiled using the LaTeX engine, which understands your code, applies the proper formatting, and outputs a professionally produced document.  LaTeX is very common in the academia world for assignments, papers, exams, and research, and is often used for resumés and books.  It requires a small learning curve, but the benefits are well worth it:
+LaTeX (pronounced lay-tek, NOT lay-teks) is a free, digital typesetting system, used by professionals to produces beautiful, high-quality, publishable documents, typically in .pdf format. Rather than typing your document into a word processor, like Microsoft Word, the content of the document is written in plain text in a text editor, along with some code to provide instructions.  Everything is compiled using the LaTeX engine, which understands your code, applies the proper formatting, and outputs a professionally produced document.  LaTeX is very common in the academic world for assignments, papers, exams, and research, and is often used for resumés and books.  It requires a small learning curve, but the benefits are well worth it:
 
 <figure>
 	<img style="" src="/images/equation.png">	
@@ -204,4 +204,4 @@ When it comes to learning LaTeX, the answer is always a quick Google search away
 - <a target="blank" href="http://tobi.oetiker.ch/lshort/lshort.pdf">Introduction to LaTeX by Tobias Oetiker</a> - A full length document on everything you could ever know about LaTeX
 - An in-depth example of writing mathematics - The <a target="blank" href="http://www.ams.jhu.edu/~ers/learn-latex/paper.pdf">PDF</a> and the <a target="blank" href="http://www.ams.jhu.edu/~ers/learn-latex/paper.tex">LaTeX source file</a>
 
-Additionally, I am happy to answer any questions by email at <a target="blank" href="michael.king2@mail.mcgill.ca">michael.king2@mail.mcgill.ca</a>. 
+Additionally, I am happy to answer any questions by email at <a target="blank" href="mailto:{{ site.owner.email }}">michael.king2@mail.mcgill.ca</a>. 

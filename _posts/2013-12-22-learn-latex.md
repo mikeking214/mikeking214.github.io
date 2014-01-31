@@ -51,17 +51,18 @@ In addition to creating beautiful text while separating content from formatting 
 ###How to Use LaTeX
 
 #### Choose a Program
-LaTeX is different from Microsoft Word and there are a few ways it can be used.  The easiest way to get started is with a web-based program that is all set up and has nothing to install. These are free for personal use, have nice interfaces, and will make it easy to learn the basics of creating LaTeX documents.  However, I recommend turning off the auto-compile feature as this will not allow you focus on the content of the work, as intended with LaTeX.  Try one of these websites, create an account, and get started.
+LaTeX is different from Microsoft Word and there are a few ways it can be used.  The fastest way to get started is with a web-based program that is all set up and has nothing to install. These are free for personal use, have nice interfaces, and will make it easy to learn the basics of creating LaTeX documents.  However, I recommend turning off the auto-compile feature as this will not allow you focus on the content of the work, as intended with LaTeX.  Try one of these websites, create an account, and get started.
 
 ##### Web Apps - Easiest Way to Start
 
 * <a markdown="0" target="_blank" href="https://www.writelatex.com/">WriteLaTeX</a>
 * <a markdown="0" target="_blank" href="https://www.sharelatex.com/">ShareLaTeX</a>
 
-If you would like to work entirely on your own computer and manage all your files locally, rather than deal with the website every time, there are many free available programs. They are all very similar, but I would suggest <a markdown="0" target="_blank" href="http://www.tug.org/texworks/">TeXworks</a>.  These are installed like any other program and include all the packages you need.  If you are going to be using LaTeX for more than just a resumé, having it on your computer is ideal.  Follow the installation instructions and start a new document.
+If you would like to work entirely on your own computer and manage all your files locally, rather than deal with the website every time, there are many free available programs. They are all very similar, but I would suggest <a markdown="0" target="_blank" href="http://sourceforge.net/projects/texstudio/?source=dlp">TeXstudio</a>.  It has some great features that make learning the language and debugging very easy, and the interface is great. These applications are installed like any other program and include all the packages you need.  If you are going to be using LaTeX for more than just a resumé, having it on your computer is ideal.  Follow the installation instructions and start a new document.
 
 ##### Programs to Compile on Your Own Computer
 
+* <a markdown="0" target="_blank" href="http://sourceforge.net/projects/texstudio/?source=dlp">TeXstudio</a> - (Mac, Linux and Windows - Recommended!)
 * <a markdown="0" target="_blank" href="http://www.tug.org/texworks/">TeXworks</a> - (Mac, Linux and Windows)
 * <a markdown="0" target="_blank" href="http://pages.uoregon.edu/koch/texshop/">TeXshop</a> - (Mac only)
 * <a markdown="0" target="_blank" href="http://miktex.org/download">MiKTeX</a> - (Windows only)
@@ -203,5 +204,11 @@ When it comes to learning LaTeX, the answer is always a quick Google search away
 - <a target="blank" href="http://www.stdout.org/~winston/latex/latexsheet.pdf">The LaTeX Cheat Sheet</a> - A great tool to keep on your computer and refer to
 - <a target="blank" href="http://tobi.oetiker.ch/lshort/lshort.pdf">Introduction to LaTeX by Tobias Oetiker</a> - A full length document on everything you could ever know about LaTeX
 - An in-depth example of writing mathematics - The <a target="blank" href="http://www.ams.jhu.edu/~ers/learn-latex/paper.pdf">PDF</a> and the <a target="blank" href="http://www.ams.jhu.edu/~ers/learn-latex/paper.tex">LaTeX source file</a>
+
+### LaTeXing your Resumé
+
+LaTeX is an excellent tool for making a pedestrian resumé look polished, but starting from scratch is really tough.  A lot of templates exist for them however, so I would suggest starting with one of these and customizing it to make it your own.  Having it done in LaTeX is an improvement, but try to mess around a bit with the formatting to make it unique.  I have included a template for my CV, which was based on a template by <a target="_blank" href="http://nitens.org/taraborelli/cvtex">Dario Taraborelli</a>, with some help from <a target="_blank" href="jaan.io">Jaan Altosaar</a>, and customized for my needs. 
+
+- <a target="_blank" href="http://nitens.org/cv/cv.pdf">Dario Taraborelli's
 
 Additionally, I am happy to answer any questions by email at <a target="blank" href="mailto:{{ site.owner.email }}">michael.king2@mail.mcgill.ca</a>. 

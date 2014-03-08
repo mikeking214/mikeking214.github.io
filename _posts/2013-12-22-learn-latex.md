@@ -23,7 +23,7 @@ LaTeX (pronounced lay-tek, NOT lay-teks) is a free, digital typesetting system, 
 </figure>
 <br>
 <figure>
-	{% highlight latex %}
+	{% highlight tex %}
 \begin{equation}
 	{\partial{\bf u}\over{\partial t}} + ({\bf u} \cdot \nabla) {\bf u} = - {1\over\rho} \nabla p + \gamma\nabla^2{\bf u} + {1\over\rho}{\bf F}
 \end{equation}
@@ -79,11 +79,11 @@ For the more advanced user, I recommend adding the <a markdown="0" target="_blan
 
 LaTeX is a markup language, like HTML, and uses "tags" to describe formatting and structure the document.  These are typically very intuitive and should not be difficult to remember.  All tags and commands usually begin with a backslash and are followed by curly brackets.  All new tags and commands start on new lines, so spacing and tabs are irrelevant, and no notation is needed to end a line. To create a section heading, the code is simply
 
-{% highlight latex %} \section{This Is My Section Heading} {% endhighlight %} 
+{% highlight tex %} \section{This Is My Section Heading} {% endhighlight %} 
 
 When your document is compiled, this will be formatted to look like a section heading, but you don't have to worry about any specifics while you create your content.  This syntax works for many one-line commands like
 
-{% highlight latex %}
+{% highlight tex %}
 \chapter{Chapter Title}
 \section{Section Heading}
 \subsection{Subsection Heading}
@@ -92,9 +92,9 @@ When your document is compiled, this will be formatted to look like a section he
 \label{identifier for some item in my document} 
 {% endhighlight %}
 
-Some parts of the document require bookend tags to define what is part of that object.  This is done by creating a "begin" and "end" tag, and putting the content between them like this:
+Some parts of the document require bookend tags to define what is part of that object.  This is done by creating a `\begin` and `\end` tag, and putting the content between them like this:
 
-{% highlight latex %}
+{% highlight tex %}
 \begin{document}
 
 	\begin{figure}
@@ -110,7 +110,7 @@ Some parts of the document require bookend tags to define what is part of that o
 
 Formatting is done in a very simple manner, using a tag to begin the formatted text and brackets surrounding the text to be formatted.
 
-{% highlight latex %}
+{% highlight tex %}
 \begin{center} % Center text (followed by \end{center} of course)
 \begin{flushleft} % Left justified
 \begin{flushright} % Right justified
@@ -125,22 +125,23 @@ Formatting is done in a very simple manner, using a tag to begin the formatted t
 {\huge text} % huge font size
 {% endhighlight %}
 
-As seen above, using a percent symbol begins a comment, which should be used to describe your code to make it more clear and easier to understand later.  Everything that follows the % on a line of code will not be printed when the document is compiled.  I recommend using them when inserting commands that are not clear and you may forget later, or to mark sections of text for easy navigation of long documents.  Comments are also a good tool for debugging, by "commenting out" some lines rather than deleting them.
+As seen above, using a percent symbol begins a comment, which should be used to describe your code to make it more clear and easier to understand later.  Everything that follows the `%` on a line of code will not be printed when the document is compiled.  I recommend using them when inserting commands that are not clear and you may forget later, or to mark sections of text for easy navigation of long documents.  Comments are also a good tool for debugging, by "commenting out" some lines rather than deleting them.
 
-{% highlight latex %}
+{% highlight tex %}
 % \begin{figure}
 %	\includegraphics[width=4in]{boat.jpg}
 % \end{figure}
 {% endhighlight %}
 
-All documents will require some preamble code to set up things like document type, author, title, date, fonts, colors, symbols and any packages you want to use.  This will all be defined at the top of your code, before the \begin{document} tag. Document class is what always goes first and defines the type of document you are creating, which can be either an article, report, letter, book, proc, or slides. Modifiers can be added to some commands that specify details like font size, paper size, double-sided, or a titlepage.  These are added between [] brackets inside the command like this:
+All documents will require some preamble code to set up things like document type, author, title, date, fonts, colors, symbols and any packages you want to use.  This will all be defined at the top of your code, before the `\begin{document}` tag. Document class is what always goes first and defines the type of document you are creating, which can be either an article, report, letter, book, proc, or slides. Modifiers can be added to some commands that specify details like font size, paper size, double-sided, or a titlepage.  These are added between `[]` brackets inside the command like this:
 
-{% highlight latex %}
+{% highlight tex %}
 \documentclass[12pt, letterpaper]{article}
 {% endhighlight %}
 
 If your document has a title, author, or specific date, you can define it like this in the preamble:
-{% highlight latex %}
+
+{% highlight tex %}
 \title{My First \LaTeX{} Document}
 \author{My Name}
 \date{\today}
@@ -148,7 +149,7 @@ If your document has a title, author, or specific date, you can define it like t
 
 This will all show up in the title according the default formatting dictated by the document class that you have chosen.  It is then placed into the document like this:
 
-{% highlight latex %}
+{% highlight tex %}
 \begin{document} 
 \maketitle 
 	Your document content goes here
@@ -160,7 +161,7 @@ This will all show up in the title according the default formatting dictated by 
 
 Now that we've gone over the basics, let's try creating our first LaTeX document!  Type the following code into the program you have chosen:
 
-{% highlight latex %}
+{% highlight tex %}
 \documentclass[12pt, letterpaper]{article}
 
 \title{My First \LaTeX{} Document}
@@ -177,7 +178,7 @@ Now that we've gone over the basics, let's try creating our first LaTeX document
 \end{document}
 {% endhighlight %}
 
-To compile, it varies for each application, but a button like "Compile," "Typeset," or "PDF" should give you an output that looks like this:
+To compile, it varies for each application, but a button like **Compile**, **Typeset**, or **PDF** should give you an output that looks like this:
 
 <figure>
 	<a target="_blank" href="/images/latex_doc.pdf"><img style="border: 1px solid; align: center; width: 48%; margin: 2px" src="/images/latex_doc.png"></a>
@@ -187,28 +188,40 @@ To compile, it varies for each application, but a button like "Compile," "Typese
 
 Hopefully everything worked and you now have your first LaTeX document!  You can begin writing some of your own content and getting the hang of things.  
 
-If it didn't work the first time don't worry.  It is very common to get errors in your code, for misspelled words or incorrect syntax, so inspect the log that explains the error and use the line number given to locate the mistake.  Some debugging is necessary when it doesn't recognize a part of your code, and this can be the most frustrating part.  If I forgot the "e" in "\maketitle" on line 10, the error log will look like this: 
+If it didn't work the first time don't worry.  It is very common to get errors in your code, for misspelled words or incorrect syntax, so inspect the log that explains the error and use the line number given to locate the mistake.  Some debugging is necessary when it doesn't recognize a part of your code, and this can be the most frustrating part.  If I forgot the second `e` in `\maketitle` on line 10, the error log will look like this: 
 
-{% highlight latex %}
+{% highlight tex %}
 There were errors in your LaTeX source
 
 ./latex_doc.tex:10: Undefined control sequence. [\maketitl]
 {% endhighlight %} 
 
-The error should follow a similar pattern of [filename]:[line number where error is]:[Error description]. [the incorrect content].
+The error should follow a similar pattern of `[filename]:[line number where error is]:[Error description]. [the incorrect content]`
 
 #### Troubleshooting
 
 When it comes to learning LaTeX, the answer is always a quick Google search away. It seems no matter what you want to create or what problem you run into, someone else has already found the solution.  For more concrete help, some resources are:
 
-- <a target="blank" href="http://www.stdout.org/~winston/latex/latexsheet.pdf">The LaTeX Cheat Sheet</a> - A great tool to keep on your computer and refer to
+- <a target="blank" href="http://www.stdout.org/~winston/latex/latexsheet.pdf">The LaTeX Cheat Sheet</a> - Great tool to keep on your computer and refer to
 - <a target="blank" href="http://tobi.oetiker.ch/lshort/lshort.pdf">Introduction to LaTeX by Tobias Oetiker</a> - A full length document on everything you could ever know about LaTeX
 - An in-depth example of writing mathematics - The <a target="blank" href="http://www.ams.jhu.edu/~ers/learn-latex/paper.pdf">PDF</a> and the <a target="blank" href="http://www.ams.jhu.edu/~ers/learn-latex/paper.tex">LaTeX source file</a>
 
 ### LaTeXing your Resumé
 
-LaTeX is an excellent tool for making a pedestrian resumé look polished, but starting from scratch is really tough.  A lot of templates exist for them however, so I would suggest starting with one of these and customizing it to make it your own.  Having it done in LaTeX is an improvement, but try to mess around a bit with the formatting to make it unique.  I have included a template for my CV, which was based on a template by <a target="_blank" href="http://nitens.org/taraborelli/cvtex">Dario Taraborelli</a>, with some help from <a target="_blank" href="jaan.io">Jaan Altosaar</a>, and customized for my needs. 
+LaTeX is an excellent tool for making a pedestrian resumé look polished, but starting from scratch is really tough.  A lot of LaTeX templates exist for resumés however, so I would suggest starting with one of these and customizing it to make it your own.  There are tons out there that apply to different fields and styles, but here is a list to get started: 
 
-- <a target="_blank" href="http://nitens.org/cv/cv.pdf">Dario Taraborelli's
+- <a target="_blank" href="http://github.com/mikeking214/latexresumetemplate">My own template</a>
+- <a target="_blank" href="http://www.latextemplates.com/cat/curricula-vitae">LaTeXtemplates.com</a>
+- <a target="_blank" href="https://www.sharelatex.com/templates/cv/">ShareLaTeX.com</a>
+- <a target="_blank" href="https://github.com/smholloway/resume/blob/master/latex/resume.tex">Template by Seth Holloway</a>
 
-Additionally, I am happy to answer any questions by email at <a target="blank" href="mailto:{{ site.owner.email }}">michael.king2@mail.mcgill.ca</a>. 
+
+I have included the template I used for my CV, which I based off  a template by <a target="_blank" href="http://nitens.org/taraborelli/cvtex">Dario Taraborelli</a>, with some help from <a target="_blank" href="jaan.io">Jaan Altosaar</a>, and customized for my needs. A great way to learn LaTeX is to study a completed document, so I have filled the template with comments to explain what does what in the code.  It is an academic resume and contains more sections than you'll need, so include only what applies to you and make changes as you please.  In addition to formatting help, I have tried to include general resumé tips I've picked up, so use those as you wish. 
+
+######Download the template from my <a target="_blank" href="https://github.com/mikeking214/LatexResumeTemplate">GitHub page</a> and get started!######
+
+Additionally, I am happy to answer any questions by <a target="blank" href="mailto:{{ site.owner.email }}">email</a>. 
+
+
+
+

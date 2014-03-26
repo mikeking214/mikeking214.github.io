@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 permalink: /about/index.html
 title: About Me
 tags: [about, me, personal, Michael, Elliot, King, McGill]

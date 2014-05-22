@@ -1,8 +1,8 @@
-title:            Michael Elliot King
+git title:            Michael Elliot King
 disqus_shortname: MK      
 description:      Michael Elliot King's personal website
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://michaelelliotking.com
+url:              http://michaelelliotking.com
 
 # Owner/author information
 owner:

@@ -8,8 +8,10 @@ image:
   creditlink: http://www.michaelelliotphotography.com/bythesea/h6c12e8d0#h6c12e8d0
 ---
 
-I am an undergraduate Mechanical Engineering student at McGill University.  My focus is in engineering design, specifically robotics and human computer interaction.
+I am a recent graduate of McGill University passionate about engineering design, specifically <a markdown="0" href="{{ site.url }}/projects/mcgillrobotics">robotics</a> and <a markdown="0" href="{{ site.url }}/projects/brailleuniversity">human computer interaction</a>. 
 
-My projects can be found <a markdown="0" href="{{ site.url }}/projects">here</a> and my CV <a markdown="0" href="{{ site.url }}/cv.pdf">here</a>.
+This summer, I am continuing to work as the mechanical engineering lead of a <a markdown="0" href="http://www.mcgillrobotics.com">robotics engineering design team</a> while also completing my research at McGill's <a markdown="0" href="www.cim.mcgill.ca">Centre for Intelligent Machines</a>. 
+
+Read about <a markdown="0" href="{{ site.url }}/about">me</a>, my <a markdown="0" href="{{ site.url }}/projects">projects</a> or have a look at my <a markdown="0" href="{{ site.url }}/cv.pdf">CV</a>.
 
 <br>

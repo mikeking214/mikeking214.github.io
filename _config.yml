@@ -2,7 +2,7 @@ title:            Michael Elliot King
 disqus_shortname: MK      
 description:      Michael Elliot King's personal website
 #Comment out url when working locally to resolve base urls correctly
-url:              http://michaelelliotking.com
+#url:              http://michaelelliotking.com
 
 # Owner/author information
 owner:
@@ -11,11 +11,11 @@ owner:
   bio:            "Montreal | Cape Cod"
   email:          michael.king2@mail.mcgill.ca
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
- # twitter:        
-  facebook:       
-  github:         mikeking214
   linkedin:       michaelelliotking
   instagram:      michaelelliotking
+  twitter:        mikeking_mk
+  facebook:       mike.king214
+  github:         mikeking214
   #lastfm:         
   #tumblr:         
   # For Google Authorship https://plus.google.com/authorship

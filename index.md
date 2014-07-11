@@ -12,6 +12,6 @@ I am a recent graduate of McGill University passionate about engineering design,
 
 This summer, I am continuing to work as the mechanical engineering lead of a <a markdown="0" href="http://www.mcgillrobotics.com">robotics engineering design team</a> while also completing my research at McGill's <a markdown="0" href="http://www.cim.mcgill.ca">Centre for Intelligent Machines</a>. 
 
-Read about <a markdown="0" href="{{ site.url }}/about">me</a>, my <a markdown="0" href="{{ site.url }}/projects">projects</a>, or have a look at my <a markdown="0" href="{{ site.url }}/cv.pdf">CV</a>.
-
+<!-- Read about <a markdown="0" href="{{ site.url }}/about">me</a>, my <a markdown="0" href="{{ site.url }}/projects">projects</a>, or have a look at my <a markdown="0" href="{{ site.url }}/cv.pdf">CV</a>.
+ -->
 <br>

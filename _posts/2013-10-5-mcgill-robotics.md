@@ -55,7 +55,7 @@ Leading the mechanical division was a new challenge for me and required the tech
 | • Teaching inexperienced individuals						|
 | • Motivating volunteers									|
 | • Rewarding and disciplining								|
-| • Researching and implementing project management tools	|
+| • Implementing and using project management tools			|
 | • Communication within a large team 						|
 | • Branding, marketing, and sponsor promotion 				|
 | • Requesting funds and sponsorship 						|
@@ -64,7 +64,7 @@ Leading the mechanical division was a new challenge for me and required the tech
 
 Tons of information about the technical details of the vehicle can be found on the <a markdown="0" target="_blank" href="http://auv.mcgillrobotics.com/robot/overview/">vehicle page of our website</a> and frequent detailed updates are posted on our <a markdown="0" target="_blank" href="http://auv.mcgillrobotics.com/category/news">news page</a>.  
 
-Additionally, I am in charge of all our social media platforms--<a markdown="0" target="_blank" href="http://facebook.com/mcgillrobotics">Facebook</a>, <a markdown="0" target="_blank" href="http://instagram.com/mcgillrobotics">Instagram</a>, <a markdown="0" target="_blank" href="http://twitter.com/mcgillrobotics">Twitter</a>, <a markdown="0" target="_blank" href="http://youtube.com/user/mcgillrobotics">YouTube</a>, and <a markdown="0" target="_blank" href="http://linkedin.com/company/mcgill-robotics">LinkedIn</a>---where I post daily and weekly updates, utilizing our specific branding strategy and social media management tools.
+Additionally, I am in charge of all our social media platforms---<a markdown="0" target="_blank" href="http://facebook.com/mcgillrobotics">Facebook</a>, <a markdown="0" target="_blank" href="http://instagram.com/mcgillrobotics">Instagram</a>, <a markdown="0" target="_blank" href="http://twitter.com/mcgillrobotics">Twitter</a>, <a markdown="0" target="_blank" href="http://youtube.com/user/mcgillrobotics">YouTube</a>, and <a markdown="0" target="_blank" href="http://linkedin.com/company/mcgill-robotics">LinkedIn</a>---where I post daily and weekly updates, utilizing our specific branding strategy and social media management tools.
 
 <!-- ##### *April Update
 

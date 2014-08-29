@@ -9,22 +9,33 @@ tags: [AUV, autonomous, underwater, vehicle, robosub, submarine, Robotics, engin
 
 *<a markdown="0" target="_blank" href="http://mcgillrobotics.com">McGill Robotics</a> - Supervisor: <a markdown="0" target="_blank" href="http://people.mcgill.ca/meyer.nahon/">Professor Meyer Nahon</a>*
 
+
+*10th Place Overall - <a markdown="0" target="_blank" href="http://robosub.org">AUVSI & ONR RoboSub Competition</a>*
+
+*3rd Place Static Judging*
+
+*Best Branding and Business Development ($500)*
+
 ****
 
 ###Co-Founder & Mechanical Lead
 **Co-Founder:** McGill Robotics is an umbrella organization of students who develop autonomous vehicles.  It was started by <a markdown="0" target="_blank" href="http://speal.ca">Nick Speal</a> and myself as a platform for a number of robotics teams to learn about and build robots, and compete in international robotics competitions.  The organization began with only the Autonomous Underwater Vehicle team and a business team, and has already expanded to include the CanSAT team, Autonomous Race Car team, and the University Rover Challenge team.  With collaborative resources and momentum from a successful year with [McGill LunarEx Robotics](/projects/lunarex), McGill Robotics should continue to expand and succeed.
 
-**Mechanical Lead:** As mechanical engineering lead at McGill Robotics, I am in charge of the design and manufacturing of an autonomous underwater vehicle, as well as the management and delegation of twenty engineering students working on the mechanical systems of the robot. 
+**Mechanical Lead:** As mechanical engineering lead at McGill Robotics, I was in charge of the design and manufacturing of an autonomous underwater vehicle, as well as the management and delegation of twenty engineering students working on the mechanical systems of the robot. 
 
 
 <div align="center">
 	<img alt="CAD of McGill Robotics AUV - by Michael Elliot King" src="/images/CAD.png" width="48%">
 	<img alt="Testing Asimov in the Memorial Pool at McGill" src="/images/testing.jpg" width="48%">
 </div> 
+<div align="center">
+	<img alt="Asimov Surfacing in the Octagon" src="/images/surface.jpg" width="48%">
+	<img alt="Asimov During a Competition Run" src="/images/underwater1.jpg" width="48%">
+</div> 
 
 #####The Team
 
-This year, I helped the robotics design team re-brand to McGill Robotics and expand from 40 to 98 committed members, due to a deliberate effort to market ourselves and recruit the increasing number of interested students.  With increased professionalism, publicity, and success, we are able to give many more students access to invaluable engineering experiences.  We hope to see McGill Robotics expand in the coming years, to compete in more competitions and get more people excited about robotics.
+This year, I helped the robotics design team re-brand to McGill Robotics and expand from 40 to 98 committed members, due to a deliberate effort to market ourselves and recruit the increasing number of interested students.  With increased professionalism, publicity, and success, we are able to give many more students access to invaluable engineering experiences.  At the 2014 RoboSub Competition, the team was awarded *Best Branding and Business Development ($500)* due to these deliberate efforts.
 
 #####The Competition
 
@@ -62,13 +73,10 @@ Leading the mechanical division was a new challenge for me and required the tech
 | • Social media management 								|
 
 
-Tons of information about the technical details of the vehicle can be found on the <a markdown="0" target="_blank" href="http://auv.mcgillrobotics.com/robot/overview/">vehicle page of our website</a> and frequent detailed updates are posted on our <a markdown="0" target="_blank" href="http://auv.mcgillrobotics.com/category/news">news page</a>.  
+Tons of information about the technical details of the vehicle can be found on the <a markdown="0" target="_blank" href="http://auv.mcgillrobotics.com/robot/overview/">vehicle page of our website</a> and frequent detailed updates are posted on the <a markdown="0" target="_blank" href="http://auv.mcgillrobotics.com/category/news">news page</a>.  
 
-Additionally, I am in charge of all our social media platforms---<a markdown="0" target="_blank" href="http://facebook.com/mcgillrobotics">Facebook</a>, <a markdown="0" target="_blank" href="http://instagram.com/mcgillrobotics">Instagram</a>, <a markdown="0" target="_blank" href="http://twitter.com/mcgillrobotics">Twitter</a>, <a markdown="0" target="_blank" href="http://youtube.com/user/mcgillrobotics">YouTube</a>, and <a markdown="0" target="_blank" href="http://linkedin.com/company/mcgill-robotics">LinkedIn</a>---where I post daily and weekly updates, utilizing our specific branding strategy and social media management tools.
+Additionally, I was in charge of all our social media platforms---<a markdown="0" target="_blank" href="http://facebook.com/mcgillrobotics">Facebook</a>, <a markdown="0" target="_blank" href="http://instagram.com/mcgillrobotics">Instagram</a>, <a markdown="0" target="_blank" href="http://twitter.com/mcgillrobotics">Twitter</a>, <a markdown="0" target="_blank" href="http://youtube.com/user/mcgillrobotics">YouTube</a>, and <a markdown="0" target="_blank" href="http://linkedin.com/company/mcgill-robotics">LinkedIn</a>---where I posted daily and weekly updates, utilizing our specific branding strategy and social media management tools.
 
-<!-- ##### *April Update
-
-The vehicle has been tested, both wet and dry, and we are confident we will have a working machine by July.  The mechanical systems are completed, but a second iteration of some parts are being manufactured.  The electrical division continues to improve cable management and connection issues to increase the robustness of the system.  Autonomy is not ready yet, as we continue to gather camera and sensor data for processing, but computer vision, planner, controls, and state estimation have been successfully integrated.  With further mechanical improvements, new waterproof connectors, and more testing, we hope to have an autonomous vehicle by mid June.  --> 
 
 ###### Writeups on the team by:
 
@@ -76,4 +84,6 @@ The vehicle has been tested, both wet and dry, and we are confident we will have
 	<a markdown="0" target="_blank" href="http://graphitepublications.com/team-building-with-mcgill-robotics/"><img alt="Team Building with McGill Robotics - Graphite Publications" src="/images/graphite.png" width="48%"></a>
 	<a markdown="0" target="_blank" href="http://bullandbearmcgill.com/putting-the-team-before-the-machine/"><img alt="Putting the Team Before the Machine - The Bull and Bear" src="/images/bullandbear.png" width="48%"></a>
 </div>
-
+<div align="center">
+	<a markdown="0" target="_blank" href="http://publications.mcgill.ca/reporter/2014/07/mcgill-team-making-waves-at-robosub-competition/"><img alt="McGill team making waves at RoboSub Competition - McGill Reporter" src="/images/reporter.png" width="98%"></a>
+</div>

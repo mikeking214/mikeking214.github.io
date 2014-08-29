@@ -10,7 +10,7 @@ image:
 
 I am a recent graduate of McGill University passionate about engineering design, specifically <a markdown="0" href="{{ site.url }}/projects/mcgillrobotics">robotics</a> and <a markdown="0" href="{{ site.url }}/projects/brailleuniversity">human computer interaction</a>. 
 
-This summer, I am continuing to work as the mechanical engineering lead of a <a markdown="0" target="_blank" href="http://www.mcgillrobotics.com">robotics engineering design team</a> while also completing my research at McGill's <a markdown="0" target="_blank" href="http://www.cim.mcgill.ca">Centre for Intelligent Machines</a>. 
+After an amazing summer <a markdown="0" target="_blank" href="http://www.cim.mcgill.ca">researching at McGill University</a>, leading <a markdown="0" target="_blank" href="http://www.mcgillrobotics.com">McGill Robotics</a>, and traveling across the country, I have moved to New York City to pursue my passions and seek full time employment in the engineering field.
 
 <!-- Read about <a markdown="0" href="{{ site.url }}/about">me</a>, my <a markdown="0" href="{{ site.url }}/projects">projects</a>, or have a look at my <a markdown="0" href="{{ site.url }}/cv.pdf">CV</a>.
  -->

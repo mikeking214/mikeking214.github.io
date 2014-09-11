@@ -30,7 +30,7 @@ tags: [AUV, autonomous, underwater, vehicle, robosub, submarine, Robotics, engin
 </div> 
 <div align="center">
 	<img alt="Asimov Surfacing in the Octagon" src="/images/surface.jpg" width="48%">
-	<img alt="Asimov During a Competition Run" src="/images/underwater1.jpg" width="48%">
+	<img alt="Asimov During a Competition Run" src="/images/underwater1.JPG" width="48%">
 </div> 
 
 #####The Team

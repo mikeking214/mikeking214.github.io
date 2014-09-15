@@ -402,7 +402,7 @@ a {
   transition: all 0.2s ease;
 }
 body {
-  font-family: 'Petrona', serif;
+  font-family: 'Crimson Text', serif;
   color: #333332;
   font-size: 16;
 }
@@ -414,7 +414,7 @@ h5 {
   font-family: 'Telex', sans-serif;
 }
 h6 {
-  font-family: 'Petrona', serif;
+  font-family: 'Lora', serif;
 }
 h1 {
   font-size: 36px;
@@ -518,7 +518,7 @@ blockquote {
   margin-left: -28px;
   padding-left: 20px;
   border-left: 8px solid #333332;
-  font-family: 'Petrona', serif;
+  font-family: 'Crimson Text', serif;
   font-style: italic;
   font-size: 24px;
   font-size: 1.5rem;
@@ -533,7 +533,7 @@ blockquote {
   margin-bottom: 1.875rem;
 }
 footer {
-  font-family: 'Petrona', serif;
+  font-family: 'Crimson Text', serif;
 }
 p {
   margin: 0 0 1.875rem;
@@ -1484,7 +1484,7 @@ input,
 button,
 select,
 textarea {
-  font-family: 'Petrona', serif;
+  font-family: 'Crimson Text', serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -ms-box-sizing: border-box;
@@ -1715,7 +1715,7 @@ select:focus {
 /* Page level layout styles ================================ */
 body {
   background-color: #ffffff;
-  font-family: 'Petrona', serif;
+  font-family: 'Crimson Text', serif;
   font-color: #333332;
 }
 .navigation-wrapper {
@@ -1728,7 +1728,7 @@ body {
   font-size: 120%;
 }
 .site-name {
-  font-family: 'Petrona', serif;
+  font-family: 'Lora', serif;
   margin: 0 auto;
   width: 100%;
   display: inline;
@@ -1736,7 +1736,6 @@ body {
   width: 83.33333333%;
   margin-left: 8.33333333%;
   margin-right: 8.33333333%;
-  margin-bottom: 1em;
   text-transform: capitalize;
   text-align: center;
 }
@@ -2065,7 +2064,7 @@ body {
   margin-bottom: 1%;
 }
 .holder {
-  font-family: 'Petrona', serif;
+  font-family: 'Crimson Text', serif;
 }
 .holder a {
   cursor: pointer;

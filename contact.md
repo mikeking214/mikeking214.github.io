@@ -13,6 +13,11 @@ image:
 
 ###<a href="mailto:mk@michaelelliotking.com?subject=Let's Connect!"  target="_blank">mk@michaelelliotking.com</a> | 617.633.0828
 
+<figure>
+	<img alt="Contact Info for Michael Elliot King" src="/images/QRContactMichaelElliotKing.png" width="30%">
+	<figcaption>scan the code to add me as a contact</figcaption>
+</figure>
+
 
 <!--Department of Mechanical Engineering, McGill University<br>
 817 Sherbrooke Street West<br>

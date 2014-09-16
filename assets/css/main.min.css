@@ -414,7 +414,7 @@ h5 {
   font-family: 'Telex', sans-serif;
 }
 h6 {
-  font-family: 'Lora', serif;
+  font-family: 'Crimson Text', serif;
 }
 h1 {
   font-size: 36px;
@@ -452,9 +452,9 @@ h5 {
   margin-bottom: 1.66666667rem;
 }
 h6 {
-  font-size: 22px;
-  font-size: 1.22222222rem;
-  line-height: 1.3636;
+  font-size: 20px;
+  font-size: 1.11111111rem;
+  line-height: 1.5;
   margin-bottom: 30px;
   margin-bottom: 1.66666667rem;
 }
@@ -1728,7 +1728,7 @@ body {
   font-size: 120%;
 }
 .site-name {
-  font-family: 'Lora', serif;
+  font-family: 'Crimson Text', serif;
   margin: 0 auto;
   width: 100%;
   display: inline;
@@ -1891,10 +1891,11 @@ body {
   border-radius: 100px;
 }
 .author-social {
+  font-family: 'Telex', sans-serif;
   display: block;
   margin-bottom: 5px;
-  font-size: 14px;
-  font-size: 0.77777778rem;
+  font-size: 20px;
+  font-size: 1.11111111rem;
   color: #111111;
 }
 .author-social:visited {

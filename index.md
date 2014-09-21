@@ -10,8 +10,11 @@ image:
 
 I am a recent graduate of McGill University passionate about <a markdown="0" href="{{ site.url }}/projects/vf_shoe">engineering design</a>, specifically <a markdown="0" href="{{ site.url }}/projects/mcgillrobotics">robotics</a> and <a markdown="0" href="{{ site.url }}/projects/brailleuniversity">human computer interaction</a>. 
 
-After an amazing summer <a markdown="0" target="_blank" href="http://www.cim.mcgill.ca">researching at McGill</a>, leading <a markdown="0" target="_blank" href="http://www.mcgillrobotics.com">McGill Robotics</a>, and traveling across the country, I have moved to New York City to pursue my passions and seek full time employment in the engineering field.
+After an amazing summer <a markdown="0" target="_blank" href="http://www.cim.mcgill.ca">researching at McGill</a>, leading <a markdown="0" target="_blank" href="http://www.mcgillrobotics.com">McGill Robotics</a>, <a markdown="0" target="_blank" href="https://www.facebook.com/media/set/?set=a.10202998127774211&type=1&l=18dee6a152">traveling across the country</a>, and <a markdown="0" target="_blank" href="https://www.facebook.com/media/set/?set=a.10203082245157093&type=1&l=9149f6c2be">exploring California</a>, I have accepted a job in Point Judith, RI with <a markdown="0" target="_blank" href="http://cra.com">Charles River Analytics'</a> R & D team, developing and testing for their Autonomous Underwater Vehicle systems.
 
 <!-- Read about <a markdown="0" href="{{ site.url }}/about">me</a>, my <a markdown="0" href="{{ site.url }}/projects">projects</a>, or have a look at my <a markdown="0" href="{{ site.url }}/cv.pdf">CV</a>.
  -->
 <br>
+
+<!-- https://www.facebook.com/media/set/?set=a.10202998127774211&type=1&l=18dee6a152 - cross country trip-->
+<!-- https://www.facebook.com/media/set/?set=a.10203082245157093&type=1&l=9149f6c2be - Cali travels-->

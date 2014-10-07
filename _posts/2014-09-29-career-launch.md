@@ -9,7 +9,7 @@ tags: [career, job, adult, first, job, underwater, robotics, AUV, CRA, ocean, en
 ---
 
 <div align="center">
-	<img alt="Work ID Badge" src="/images/CRAbadge.jpg" width="98%">
+	<img alt="Work ID Badge" src="/images/CRAbadge.JPG" width="98%">
 </div>
 <br>
 

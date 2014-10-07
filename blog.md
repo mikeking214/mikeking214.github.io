@@ -10,4 +10,4 @@ image:
   creditlink: http://www.michaelelliotphotography.com/bythesea/h65442b72#h65442b72
 ---
 
-Clearly writing is not my strong-suit. Starting a blog is my attempt at documenting this life.
+I've always struggled with writing, but I appreciate its importance and enjoy the challenge.  I also think documentation is invaluable.  So with this blog I hope to practice and improve my writing while also recording and sharing my life.

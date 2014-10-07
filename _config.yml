@@ -2,7 +2,7 @@ title:            Michael Elliot King
 disqus_shortname: MK      
 description:      Michael Elliot King's personal website
 #Comment out url when working locally to resolve base urls correctly
-url:              http://michaelelliotking.com
+# url:              http://michaelelliotking.com
 
 # Owner/author information
 owner:
@@ -36,11 +36,13 @@ links:
     url: /projects
   - title: Articles
     url: /articles 
-  - title: Curriculum Vitæ
-    url: /cv
+  - title: Blog
+    url: /blog
   - title: Photography
     url: http://michaelelliotphotography.com
     external: true
+  - title: CV
+    url: /cv
   - title: Contact
     url: /contact
   

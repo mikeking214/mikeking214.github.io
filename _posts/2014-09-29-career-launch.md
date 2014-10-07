@@ -1,0 +1,31 @@
+---
+layout: blog
+permalink: /blog/first_job
+title: "My First Job"
+description: "Entering the work force with my first real engineering job"
+category: blogs
+date: 2014-10-06
+tags: [career, job, adult, first, job, underwater, robotics, AUV, CRA, ocean, engineering, personal, Mike, Michael, Elliot, King, McGill]
+---
+
+<div align="center">
+	<img alt="Work ID Badge" src="/images/CRAbadge.jpg" width="98%">
+</div>
+<br>
+
+*I've spent a lot of my life thinking, worrying, learning, planning, and searching for my career.  Last week I started my first "real" job and I couldn't be happier.*
+
+----
+
+On the heels of an incredible summer <a markdown="0" target="_blank" href="https://www.facebook.com/media/set/?set=a.10203082245157093&type=1&l=9149f6c2be">traveling through California and living like a nomad</a>, I returned to the East Coast to live on friends' couches in New York City and immerse myself in the job search.  I reached out to every contact I had recorded from the past few years, connected with people on LinkedIn, attended Meetups, walked into university labs, and surfed online job boards.  After a month I managed to get three offers from three vastly different companies.  This was incredibly encouraging, yet spoke to how diverse my interests are and undefined my direction is.  
+
+After quite a bit of deliberation comparing oranges to apples, I accepted a job with <a markdown="0" target="_blank" href="http://wwww.cra.com">Charles River Analytics</a> in Point Judith, RI. CRA is a Boston-based software company with a small annex Research & Development lab that works on Autonomous Underwater Vehicles on the coast of Rhode Island.  I am now a part of that eight-man team, designing, implementing, and testing underwater unmanned systems in a harbor a half hour away from where I now live in Newport.  
+
+I feel incredibly lucky to have found a job that I thoroughly enjoy and cannot believe it's something that combines my passion for engineering with my love for the ocean.  The balance between designing with CAD on a computer, building with my hands in a shop, and testing the vehicles out on the water is something I've dreamed of but never imagined would be possible. 
+
+Although the downside of taking a job in a new place where I don't know anyone is being away from my closest friends, I'm happy to be somewhere beautiful and excited about getting to know new places and people.  Can't to see where this job takes me and where I'll be six months from now!
+
+----
+
+I plan on writing more about my summer travels and job search process, so check back [here](/blog) if you're interested.
+

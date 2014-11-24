@@ -35,21 +35,38 @@ h6 {
 	.font-size(20);
 }
 
+// Body Text
+// --------------------------------------------------
+article {
+	a {
+		text-decoration: none;
+		color: @linkcolor; 
+		&:hover { 
+			color: @link-color; 
+			}
+		&:focus { 
+			outline: thin dotted; 
+			color: lighten(@link-color, 20);
+			}
+		&:hover, 
+		&:active { 
+			outline: 0; 
+			}
+	}
+}
+
 
 // Links
 // --------------------------------------------------
 a { 
 	text-decoration: none;
 	color: @link-color; 
-	&:visited { 
-		color: lighten(@link-color, 20); 
-	}
 	&:hover { 
-		color: darken(@link-color, 20); 
+		color: @linkcolor; 
 	}
 	&:focus { 
 		outline: thin dotted; 
-		color: darken(@link-color, 20);
+		color: lighten(@link-color, 20);
 	}
 	&:hover, 
 	&:active { 

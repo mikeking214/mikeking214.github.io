@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /articles/learn_latex
+permalink: /articles/learn-latex
 title: "How to Produce Professional Documents with LaTeX"
 description: "A simple guide to learning LaTeX for formatting your professional documents"
 category: articles

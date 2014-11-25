@@ -55,4 +55,5 @@ The third one came through my detective work and perseverance.  I found a job po
 
 _____
 
+
 The big lessons I was able to take away from my experience are the importance of networking and the successfulness of unofficial channels. By being prepared to network, seeking out networking opportunities, and getting creative with my communication tactics I was able to get some great responses.  Three led to offers and one led to landing a job I love.  The secret is really combining the widely-known approach of networking, with the lesser-known strategy of backend communication, to leverage your way into a job you really desire.

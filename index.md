@@ -8,9 +8,10 @@ image:
   creditlink: http://www.michaelelliotphotography.com/bythesea/h6c12e8d0#h6c12e8d0
 ---
 
-I am a recent graduate of McGill University passionate about engineering design, specifically <a markdown="0" href="{{ site.url }}/projects/mcgillrobotics">robotics</a> and <a markdown="0" href="{{ site.url }}/projects/brailleuniversity">human computer interaction</a>. 
+I am a mechanical engineer at <a markdown="0" target="_blank" href="http://cra.com">Charles River Analytics</a> in Snug Harbor, RI, developing and testing autonomous underwater vehicles.  I am new to Rhode Island, but loving my new lifestlye and occupation.  I am lucky enough to be practicing what I spent years studying--technical engineering design--while also living out the fantasy of working outside and on the ocean everyday. 
 
-After an amazing summer <a markdown="0" target="_blank" href="http://www.cim.mcgill.ca">researching at McGill</a>, leading <a markdown="0" target="_blank" href="http://www.mcgillrobotics.com">McGill Robotics</a>, <a markdown="0" target="_blank" href="https://www.facebook.com/media/set/?set=a.10202998127774211&type=1&l=18dee6a152">traveling across the country</a>, and <a markdown="0" target="_blank" href="https://www.facebook.com/media/set/?set=a.10203082245157093&type=1&l=9149f6c2be">exploring California</a>, I have accepted a job in Point Judith, RI with <a markdown="0" target="_blank" href="http://cra.com">Charles River Analytics'</a> R&D team, developing and testing for their Autonomous Underwater Vehicle systems.
+If you are interested in my background, you can check out my <a markdown="0" href="{{ site.url }}/cv">CV</a>, but I also have some interesting <a markdown="0" href="{{ site.url }}/projects/">projects</a>, <a markdown="0" href="{{ site.url }}/blog/">blog posts</a>, and I even a website for my <a markdown="0" href="http://michaelelliotphotography.com">photography</a>.
+
 
 <!-- Read about <a markdown="0" href="{{ site.url }}/about">me</a>, my <a markdown="0" href="{{ site.url }}/projects">projects</a>, or have a look at my <a markdown="0" href="{{ site.url }}/cv.pdf">CV</a>.
 

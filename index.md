@@ -8,7 +8,7 @@ image:
   creditlink: http://www.michaelelliotphotography.com/bythesea/h6c12e8d0#h6c12e8d0
 ---
 
-I am a mechanical engineer at <a markdown="0" target="_blank" href="http://cra.com">Charles River Analytics</a> in Snug Harbor, RI, developing and testing autonomous underwater vehicles.  I am new to Rhode Island, but loving my new lifestlye and occupation.  I am lucky enough to be practicing what I spent years studying--technical engineering design--while also living out the fantasy of working outside and on the ocean everyday. 
+I am a mechanical engineer at <a markdown="0" target="_blank" href="http://cra.com">Charles River Analytics</a> in Snug Harbor, R.I., developing and testing autonomous underwater vehicles.  I am new to Rhode Island, but loving my new lifestlye and occupation.  I am lucky enough to be practicing what I spent years studying--technical engineering design--while also living out the fantasy of working outside and on the ocean everyday. 
 
 If you are interested in my background, you can check out my <a markdown="0" href="{{ site.url }}/cv">CV</a>, but I also have some interesting <a markdown="0" href="{{ site.url }}/projects/">projects</a>, <a markdown="0" href="{{ site.url }}/blog/">blog posts</a>, and I even a website for my <a markdown="0" href="http://michaelelliotphotography.com">photography</a>.
 

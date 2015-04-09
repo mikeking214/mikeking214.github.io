@@ -1,7 +1,7 @@
 ---
 layout: home
 description: "Welcome to Michael Elliot King's personal page."
-tags: [Michael, Elliot, King, McGill, robotics, personal, photography]
+tags: [Michael, Elliot, King, McGill, robotics, personal, photography, mechanical, engineer, newport, rhode island, cape cod, montreal, underwater, robot, mcgill robotics, nick, speal, auv, autonomous, robotics, facebook, twitter, instagram, contact, resume, cv, research, education, history, employment, phone, email, new york, nyc, ]
 image:
   feature: website_home.jpg
   credit: Michael Elliot Photography

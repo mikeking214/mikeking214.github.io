@@ -15,7 +15,7 @@ If you've seen a university level math or science assignment, or read something 
 
 ###What is <img style="height:30px" src="/images/latex_word.png">?
 
-LaTeX **(pronounced lay-tek, NOT lay-tek*s*)** is a free, digital typesetting system used by professionals to produce beautiful, high-quality, publishable documents, typically in .pdf format. Rather than typing your document into a word processor, like Microsoft Word, your content is written in plain text in a text editor along with code to provide instructions.  Everything is compiled using the LaTeX engine, which interprets your code, applies formatting to your text, and outputs a professionally produced document.  LaTeX is common in the academic world for assignments, papers, exams, and research, and is often used for resumés and books.  It requires a small learning curve, but the benefits are worth it.
+LaTeX **(pronounced lay-tek, NOT lay-tek*s*)** is a free, digital typesetting system used by professionals to produce beautiful, high-quality, publishable documents, typically in .pdf format. Rather than typing your document into a word processor, like Microsoft Word, your content is written in plain text in a text editor along with code to provide instructions.  Your content is compiled using the LaTeX engine--software that runs in the background--which interprets your code, applies formatting to your text, and outputs a professionally produced document.  LaTeX is common in the academic world for assignments, papers, exams, and research, and is often used for resumés and books.  It requires a small learning curve, but the benefits are worth it.
 
 <figure>
 	<img style="" src="/images/equation.png">	
@@ -55,7 +55,7 @@ For long documents, LaTeX outperforms Word at arranging chapters, sections, refe
 ###How to Use LaTeX
 
 #### Choose a Program
-LaTeX differs from Microsoft Word in that it doesn't have a native graphical user interface, so there are a few ways it can be used.  The fastest way to start is with a web-based program that has nothing to install. These are free for personal use, have nice interfaces, and will make it easy to learn the basics of creating LaTeX documents.  However, I recommend turning off the auto-compile feature as this will not allow you to focus on the content of the work, as intended with LaTeX.  Try one of these websites, create an account, and get started.
+LaTeX differs from word processors in that it doesn't have a native graphical user interface, so there are a few ways it can be used.  The fastest way to start is with a web-based program that has nothing to install. These are free for personal use, have nice interfaces, and will make it easy to learn the basics of creating LaTeX documents.  However, I recommend turning off the auto-compile feature as this will not allow you to focus on the content of the work, as intended with LaTeX.  Try one of these websites, create an account, and get started.
 
 ##### Web Apps - Easiest Way to Start
 
@@ -81,7 +81,7 @@ For the advanced user, I recommend adding the <a markdown="0" target="_blank" hr
 
 #### The Basics
 
-LaTeX is a markup language like HTML and uses "tags" to describe formatting and structure the document.  Tags are typically intuitive or at least easily remembered.  Tags and commands usually begin with a backslash and are followed by curly brackets.  All new tags and commands start on new lines, so spaces and tabs are irrelevant and notation is not needed to end a line. To create a section heading, the code is:
+LaTeX is a <a markdown="0" target="_blank" href="https://en.wikipedia.org/wiki/Markup_language">markup language</a> like HTML and uses "tags" to describe formatting and structure the document.  Tags are typically intuitive or at least easily remembered.  Most tags and commands begin with a backslash and are followed by curly brackets.  All new tags and commands start on new lines, so spaces and tabs are irrelevant and notation is not needed to end a line. To create a section heading, the code is:
 
 {% highlight tex %} \section{This Is My Section Heading} {% endhighlight %} 
 
@@ -123,13 +123,13 @@ Formatting is done using a tag to begin the formatted text and brackets surround
 \textit{text} % Italic
 \underline{text} % Underline
 
-{\tiny text} % tiny font size
+{\tiny text} % tiny font size - relative to the default size
 {\small text} % small font size
 {\large text} % large font size
 {\huge text} % huge font size
 {% endhighlight %}
 
-As seen above, using a percent symbol begins a comment.  Comments -- everything that follows the `%` on a line of code -- will not be printed when the document is compiled.  Use them when inserting new or unclear commands, or to mark sections of text for easy navigation.  Comments are also a good tool for debugging, by "commenting out" some lines rather than deleting them:
+As seen above, using a percent symbol begins a comment.  Comments -- everything that follows the `%` on a line of code -- will not be printed when the document is compiled.  Use them as hidden notes when inserting new or unclear commands, or to mark sections of text for easy navigation.  Comments are also a good tool for debugging, by "commenting out" some lines rather than deleting them:
 
 {% highlight tex %}
 % \begin{figure}
@@ -140,7 +140,7 @@ As seen above, using a percent symbol begins a comment.  Comments -- everything 
 All documents will require preamble code to set up document type, author, title, date, fonts, colors, symbols and additional packages.  This will be defined at the top of your code, before the `\begin{document}` tag. Document class always goes first to define the type of document, which can be an article, report, letter, book, proc, or slides. Modifiers are added to commands to specify details like font size, paper size, double-sided, or a titlepage.  These are added between square brackets inside the command:
 
 {% highlight tex %}
-\documentclass[12pt, letterpaper]{article}
+\documentclass[12pt, letterpaper]{article} % defines an "article" style document, font size, and paper size
 {% endhighlight %}
 
 If your document has a title, author, or specific date, define it in the preamble:
@@ -226,7 +226,7 @@ I have included the <a target="_blank" href="https://github.com/mikeking214/Late
 
 ######Download the template from my <a target="_blank" href="https://github.com/mikeking214/LatexResumeTemplate">GitHub page</a> and get started!######
 
-If you spot a mistake or you have something to add, please <a target="blank" href="mailto:{{ site.owner.email }}">email</a> me. 
+If you spot a mistake in this article or you have something to add, please <a target="blank" href="mailto:{{ site.owner.email }}">email</a> me. 
 
 
 

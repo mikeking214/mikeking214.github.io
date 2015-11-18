@@ -1,12 +1,12 @@
-title:            Michael King
+title:            Michael Elliot King
 disqus_shortname: MK      
 description:      Michael King's personal website
 #Comment out url when working locally to resolve base urls correctly
-url:              http://michaelking.io
+url:              http://michaelelliotking.com
 
 # Owner/author information
 owner:
-  name:           Michael King
+  name:           Michael Elliot King
   avatar:         bio-photo.jpg
   bio:            "Newport, RI"
   email:          mk@michaelelliotking.com

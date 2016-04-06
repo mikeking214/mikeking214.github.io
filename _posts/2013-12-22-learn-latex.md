@@ -13,7 +13,7 @@ tags: [latex, tex, xelatex, xetex, lualatex, learn, teach, yourself, how, to, ho
 If you've seen a university level math or science assignment, or read something published in an academic journal, then you've seen the results of LaTeX and would recognize its fonts and formatting.
 
 
-###What is <img style="height:30px" src="/images/latex_word.png">?
+### What is <img style="height:30px" src="/images/latex_word.png">?
 
 LaTeX **(pronounced lay-tek, NOT lay-tek*s*)** is a free, digital typesetting system used by professionals to produce beautiful, high-quality, publishable documents, typically in .pdf format. Rather than typing your document into a word processor, like Microsoft Word, your content is written in plain text in a text editor along with code to provide instructions.  Your content is compiled using the LaTeX engine--software that runs in the background--which interprets your code, applies formatting to your text, and outputs a professionally produced document.  LaTeX is common in the academic world for assignments, papers, exams, and research, and is often used for resumés and books.  It requires a small learning curve, but the benefits are worth it.
 
@@ -31,10 +31,10 @@ LaTeX **(pronounced lay-tek, NOT lay-tek*s*)** is a free, digital typesetting sy
 	<figcaption>The LaTeX code to create the equation</figcaption>
 </figure>
 
-####History
+#### History
 <a markdown="0" target="_blank" href="http://en.wikipedia.org/wiki/Donald_Knuth">Donald Knuth</a>, a pioneer of computer science, wrote a series of books on computer programming in the 1970s and was so frustrated with the quality of the output by the electronic publishing tools that he spent years creating a better system.  This would become TeX, a complex system to give full control over document layout that would later be simplified by <a markdown="0" target="_blank" href="http://en.wikipedia.org/wiki/Leslie_Lamport">Leslie Lamport</a> to become the LaTeX system used today.  
 
-###Why Use LaTeX?
+### Why Use LaTeX?
 
 #### Produce Beautiful Documents Like A Professional Publisher
 What sets LaTeX apart from standard <a markdown="0" target="_blank" href="https://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG (What You See Is What You Get)</a> word processors like Microsoft Word and Open Office is how it decides to process and format your content.  Like a publishing company, LaTeX considers the document and all its features a cohesive unit.  It processes the document through algorithms that precisely format the text, paragraphs, and pages into a complete, polished product.  Word processors, on the other hand, format on the fly. They disregard the document's complete aesthetic and require you to consider formatting as you type.  Any user of Word understands the frustrations of fitting paragraphs on a page, aligning text and images, referencing figures, adjusting the size and look of titles and sections, and undoing the autoformatting Word forced upon them. 
@@ -47,12 +47,12 @@ These issues distract you from the task of writing. LaTeX affords focusing on th
 	<figcaption>Comparison of LaTeX and Word documents using default formatting. (Sources: <a target="_blank" href="/images/LaTeX/latex.tex">LaTeX</a>, <a target="_blank" href="/images/word.docx">Word</a>)</figcaption>
 </figure> 
 
-####Advanced Features
+#### Advanced Features
 LaTeX has advanced features beyond its efficiency, aesthetic, and price.  It is portable in size and compatibility; plain text files are light and the LaTeX system is available for every operating system.  This makes version control possible, which is great for documents that are updated often, like resumés and papers with multiple drafts. It also means a document can be worked on by multiple people simultaneously and across operating systems.  
 
 For long documents, LaTeX outperforms Word at arranging chapters, sections, references, and figures, and because it is lightweight, it won't crash when documents become large -- like Word will.  There are also thousands of auxiliary packages that add functionality to the base LaTex system. You can create math equations, elaborate tables, Gantt charts, flow charts, and even vector graphics with the available packages. Take advantage of these for nearly unlimited control over a document's output.  A quick Google search will locate them.  
 
-###How to Use LaTeX
+### How to Use LaTeX
 
 #### Choose a Program
 LaTeX differs from word processors in that it doesn't have a native graphical user interface, so there are a few ways it can be used.  The fastest way to start is with a web-based program that has nothing to install. These are free for personal use, have nice interfaces, and make it easy to learn the basics of creating LaTeX documents.  However, I recommend turning off the auto-compile feature as this does not allow you to focus on the content of the work, as intended with LaTeX.  Try one of these websites, create an account, and get started.
@@ -224,7 +224,7 @@ LaTeX is an excellent tool for making a pedestrian resumé look polished, but st
 
 I have included the <a target="_blank" href="https://github.com/mikeking214/LatexResumeTemplate">template I used for my CV</a>, which I based on a template by <a target="_blank" href="http://nitens.org/taraborelli/cvtex">Dario Taraborelli</a>, with some help from <a target="_blank" href="http://www.jaan.io">Jaan Altosaar</a>, and customized for my needs. A great way to learn LaTeX is to study a completed document, so I have filled the template with comments to explain what does what in the code.  It is an academic resume and contains more sections than you'll need, so include only what applies to you and make changes as you please.  In addition to formatting help, I have tried to include general resumé tips I've picked up, so use those as you wish. 
 
-######Download the template from my <a target="_blank" href="https://github.com/mikeking214/LatexResumeTemplate">GitHub page</a> and get started!######
+###### Download the template from my <a target="_blank" href="https://github.com/mikeking214/LatexResumeTemplate">GitHub page</a> and get started! ######
 
 If you spot a mistake in this article or you have something to add, please <a target="blank" href="mailto:{{ site.owner.email }}">email</a> me. 
 

@@ -23,7 +23,7 @@ Based on my past experience and understanding of the hiring process, I knew with
 
 This brings me to my overall strategy; in order to have any success, do not go through the normal means of applying for a posted job.
 
-####Unofficial Channels
+#### Unofficial Channels
 
 > *"Always avoid official channels"* -- <a markdown="0" target="_blank" href="http://jaan.io">Jaan Altosaar</a>
 
@@ -43,7 +43,7 @@ In order to network properly with these strangers, it's important to not lead wi
 
 Additionally, keep it brief.  You have to realize that you're contacting someone who doesn't know you and probably doesn't have time for you.  Never write a cover letter in an email.  A couple sentences expressing your interest and intent to make a connection in some way [grab a coffee, answer some questions, help with a problem, explain the work environment, get advice, etc] is all you should write.  Regardless of what you say, they will only respond if they think it's worth it and have the time.  Value the fact that they are busy and make it easy for them to write you a reasonable response.  If they respond warmly, then you now have the opportunity to be more expressive. *[If you're not confident with your email, consult <a markdown="0" target="_blank" href="http://matt.might.net/articles/how-to-email/">Matt Might's email writing rules</a>.]*
 
-####Evidence*
+#### Evidence*
 
 **This is a very small amount of empirical data, so take it with a grain of salt.*
 

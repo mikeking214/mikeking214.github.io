@@ -18,7 +18,7 @@ tags: [AUV, autonomous, underwater, vehicle, robosub, submarine, Robotics, engin
 
 ****
 
-###Co-Founder & Mechanical Lead
+### Co-Founder & Mechanical Lead
 **Co-Founder:** McGill Robotics is an umbrella organization of students who develop autonomous vehicles.  It was started by <a markdown="0" target="_blank" href="http://speal.ca">Nick Speal</a> and myself as a platform for a number of robotics teams to learn about and build robots, and compete in international robotics competitions.  The organization began with only the Autonomous Underwater Vehicle team and a business team, and has already expanded to include the CanSAT team, Autonomous Race Car team, and the University Rover Challenge team.  With collaborative resources and momentum from a successful year with [McGill LunarEx Robotics](/projects/lunarex), McGill Robotics should continue to expand and succeed.
 
 **Mechanical Lead:** As mechanical engineering lead at McGill Robotics, I was in charge of the design and manufacturing of an autonomous underwater vehicle, as well as the management and delegation of twenty engineering students working on the mechanical systems of the robot. 
@@ -33,15 +33,15 @@ tags: [AUV, autonomous, underwater, vehicle, robosub, submarine, Robotics, engin
 	<img alt="Asimov During a Competition Run" src="/images/underwater1.JPG" width="48%">
 </div> 
 
-#####The Team
+##### The Team
 
 This year, I helped the robotics design team re-brand to McGill Robotics and expand from 40 to 98 committed members, due to a deliberate effort to market ourselves and recruit the increasing number of interested students.  With increased professionalism, publicity, and success, we are able to give many more students access to invaluable engineering experiences.  At the 2014 RoboSub Competition, the team was awarded *Best Branding and Business Development ($500)* due to these deliberate efforts.
 
-#####The Competition
+##### The Competition
 
 The <a markdown="0" target="_blank" href="http://robosub.org">AUVSI Foundation's RoboSub Competition</a> in San Diego is the top international competition for university robotics teams building autonomous underwater vehicles.  The challenge is to build a fully autonomous robot that can navigate underwater and complete various tasks that involve responding to and interacting with its environment.  For example, the AUV must pass through gates, respond to light signals, locate an object near an acoustic pinger, shoot torpedoes at targets, and pick up items off the bottom.
 
-#####My Role
+##### My Role
 
 Leading the mechanical division was a new challenge for me and required the technical skills to research, design, prototype, manufacture, implement, and test an AUV---something totally foreign to me---as well as manage and lead a large group of undergraduate students with varying levels of skill and commitment. Some of the major areas I was versed on with this project are listed below:
 

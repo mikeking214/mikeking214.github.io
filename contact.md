@@ -9,7 +9,7 @@ image:
   creditlink: http://www.michaelelliotphotography.com/bythesea/h6c12e8d0#h681ce9e3
 ---
 
-####I love meeting new people so if you'd like to chat, feel free to shoot me an email or give me a call
+###I love meeting new people so if you'd like to chat, feel free to shoot me an email or give me a call
 
 ###<a href="mailto:mk@michaelelliotking.com?subject=Let's Connect!"  target="_blank">mk@michaelelliotking.com</a> | 774.251.9014
 

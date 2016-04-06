@@ -9,4 +9,4 @@ image:
   creditlink: http://www.michaelelliotphotography.com/bythesea/h6c12e8d0#h6cf341a6
 ---
 
-I grew up on Cape Cod, Massachusetts, studied mechanical engineering at McGill University in Montreal, Canada, and currently work in ocean engineering in Point Judith, RI.  I have a passion for design, I'm obsessed with efficiency, and believe everything should balance function with art.  When I'm not working on one of my many projects, I enjoy photography, music, web design, snowboarding, volleyball, working out, and cooking. I also love anything I can do outside, and spend every minute I can near the ocean. 
+I grew up on Cape Cod, Massachusetts, studied mechanical engineering at McGill University in Montreal, Canada, and currently work in ocean engineering in Point Judith, RI.  I have a passion for design, I'm obsessed with efficiency, and believe everything should balance function with art.  When I'm not working on one of my many projects, I enjoy photography, music, restoring bikes and furniture, web design, snowboarding, volleyball, working out, and cooking. I also love anything I can do outside, and spend every minute I can near the ocean. 

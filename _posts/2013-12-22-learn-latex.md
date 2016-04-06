@@ -48,21 +48,21 @@ These issues distract you from the task of writing. LaTeX affords focusing on th
 </figure> 
 
 ####Advanced Features
-LaTeX has advanced features beyond its efficiency, aesthetic, and price.  It is portable in size and compatibility; plain text files are light and the LaTeX system is available for every operating system.  This makes version control possible, which is great for documents that are updated often, like resumés and papers with multiple drafts. It also means a document can be worked on by people across different operating systems and at the same time.  
+LaTeX has advanced features beyond its efficiency, aesthetic, and price.  It is portable in size and compatibility; plain text files are light and the LaTeX system is available for every operating system.  This makes version control possible, which is great for documents that are updated often, like resumés and papers with multiple drafts. It also means a document can be worked on by multiple people simultaneously and across operating systems.  
 
-For long documents, LaTeX outperforms Word at arranging chapters, sections, references, and figures, and because it is lightweight, it won't crash when documents become large -- unlike Word.  There are also thousands of auxiliary packages that add functionality to the base LaTex system. You can create math equations, elaborate tables, Gantt charts, flow charts, and even vector graphics with the available packages. Take advantage of these for nearly unlimited control over a document's output.  A quick Google search will locate them.  
+For long documents, LaTeX outperforms Word at arranging chapters, sections, references, and figures, and because it is lightweight, it won't crash when documents become large -- like Word will.  There are also thousands of auxiliary packages that add functionality to the base LaTex system. You can create math equations, elaborate tables, Gantt charts, flow charts, and even vector graphics with the available packages. Take advantage of these for nearly unlimited control over a document's output.  A quick Google search will locate them.  
 
 ###How to Use LaTeX
 
 #### Choose a Program
-LaTeX differs from word processors in that it doesn't have a native graphical user interface, so there are a few ways it can be used.  The fastest way to start is with a web-based program that has nothing to install. These are free for personal use, have nice interfaces, and will make it easy to learn the basics of creating LaTeX documents.  However, I recommend turning off the auto-compile feature as this will not allow you to focus on the content of the work, as intended with LaTeX.  Try one of these websites, create an account, and get started.
+LaTeX differs from word processors in that it doesn't have a native graphical user interface, so there are a few ways it can be used.  The fastest way to start is with a web-based program that has nothing to install. These are free for personal use, have nice interfaces, and make it easy to learn the basics of creating LaTeX documents.  However, I recommend turning off the auto-compile feature as this does not allow you to focus on the content of the work, as intended with LaTeX.  Try one of these websites, create an account, and get started.
 
 ##### Web Apps - Easiest Way to Start
 
 * <a markdown="0" target="_blank" href="https://www.writelatex.com/">WriteLaTeX</a>
 * <a markdown="0" target="_blank" href="https://www.sharelatex.com/">ShareLaTeX</a>
 
-If you want to manage your files locally, rather than deal with the website every time, there are many free available programs. All are similar, but I would suggest <a markdown="0" target="_blank" href="http://sourceforge.net/projects/texstudio/?source=dlp">TeXstudio</a>.  It has features that make learning and debugging easy, and the interface is approachable. These applications install like any program and include all the packages you need to begin.  **If you are going to be using LaTeX for more than just a resumé, having it on your computer is ideal.**  Follow the installation instructions and start a new document.
+If you want to manage your files locally, rather than deal with the website every time, there are many free programs. All are similar, but I would suggest <a markdown="0" target="_blank" href="http://sourceforge.net/projects/texstudio/?source=dlp">TeXstudio</a>.  It has features that make learning and debugging easy, and the interface is approachable. These applications install like any program and include the packages you need to begin.  **If you are going to be using LaTeX for more than just a resumé, having it on your computer is ideal.**  Follow the installation instructions and start a new document.
 
 ##### Programs to Compile on Your Own Computer
 
@@ -71,12 +71,12 @@ If you want to manage your files locally, rather than deal with the website ever
 * <a markdown="0" target="_blank" href="http://pages.uoregon.edu/koch/texshop/">TeXshop</a> - (Mac only)
 * <a markdown="0" target="_blank" href="http://miktex.org/download">MiKTeX</a> - (Windows only)
 
-For the advanced user, I recommend adding the <a markdown="0" target="_blank" href="https://github.com/SublimeText/LaTeXTools">LaTeXTools</a> compiler plugin to <a markdown="0" target="_blank" href="http://www.sublimetext.com/">Sublime Text</a> through <a markdown="0" target="_blank" href="http://wbond.net/sublime_packages/package_control">Package Control</a>.  Sublime Text is an amazing text editor with great features and customization. The LaTeXTools plugin makes preparing large documents with chapters, figures, and citations a breeze.  Begin by creating a new blank text document and saving it as a .tex file.  
+For the advanced user, I recommend adding the <a markdown="0" target="_blank" href="https://github.com/SublimeText/LaTeXTools">LaTeXTools</a> compiler plugin to <a markdown="0" target="_blank" href="http://www.sublimetext.com/">Sublime Text</a> through <a markdown="0" target="_blank" href="http://wbond.net/sublime_packages/package_control">Package Control</a>.  Sublime Text is an amazing text editor with great features and customization. The LaTeXTools plugin makes preparing large documents with chapters, figures, and citations a breeze.  Begin by creating a new blank text document and saving it as a `.tex` file.  
 
 ##### Advanced Users - Text Editor with Compiler
 
-* <a markdown="0" target="_blank" href="http://www.sublimetext.com/">Sublime Text 2</a> - Great text editor for developers (Free unlimited trial version)
-* <a markdown="0" target="_blank" href="http://wbond.net/sublime_packages/package_control">Package Control</a> - Manager for the add-ons to Sublime Text
+* <a markdown="0" target="_blank" href="http://www.sublimetext.com/">Sublime Text 3</a> - Great text editor for developers (Free unlimited trial version)
+* <a markdown="0" target="_blank" href="http://wbond.net/sublime_packages/package_control">Package Control</a> - Manager for the Sublime Text add-ons
 * <a markdown="0" target="_blank" href="https://github.com/SublimeText/LaTeXTools">LaTeXTools</a> - Plugin to compile LaTeX right in Sublime Text
 
 #### The Basics
@@ -85,7 +85,7 @@ LaTeX is a <a markdown="0" target="_blank" href="https://en.wikipedia.org/wiki/M
 
 {% highlight tex %} \section{This Is My Section Heading} {% endhighlight %} 
 
-When your document is compiled, this will be formatted to look like a section heading.  This syntax works for many one-line commands:
+When your document is compiled, this is be formatted to look like a section heading.  This syntax works for many one-line commands:
 
 {% highlight tex %}
 \chapter{Chapter Title}
@@ -129,7 +129,7 @@ Formatting is done using a tag to begin the formatted text and brackets surround
 {\huge text} % huge font size
 {% endhighlight %}
 
-As seen above, using a percent symbol begins a comment.  Comments -- everything that follows the `%` on a line of code -- will not be printed when the document is compiled.  Use them as hidden notes when inserting new or unclear commands, or to mark sections of text for easy navigation.  Comments are also a good tool for debugging, by "commenting out" some lines rather than deleting them:
+As seen above, using a percent symbol begins a comment.  Comments -- everything that follows the `%` on a line of code -- is not printed when the document is compiled.  Use them as hidden notes when inserting new or unclear commands, or to mark sections of text for easy navigation.  Comments are also a good tool for debugging, by "commenting out" some lines rather than deleting them:
 
 {% highlight tex %}
 % \begin{figure}
@@ -137,7 +137,7 @@ As seen above, using a percent symbol begins a comment.  Comments -- everything 
 % \end{figure}
 {% endhighlight %}
 
-All documents will require preamble code to set up document type, author, title, date, fonts, colors, symbols and additional packages.  This will be defined at the top of your code, before the `\begin{document}` tag. Document class always goes first to define the type of document, which can be an article, report, letter, book, proc, or slides. Modifiers are added to commands to specify details like font size, paper size, double-sided, or a titlepage.  These are added between square brackets inside the command:
+All documents require preamble code to set up document type, author, title, date, fonts, colors, symbols and additional packages.  This is be defined at the top of your code, before the `\begin{document}` tag. Document class always goes first to define the type of document, which can be an article, report, letter, book, proc, or slides. Modifiers are added to commands to specify details like font size, paper size, double-sided, or a titlepage.  These are added between square brackets inside the command:
 
 {% highlight tex %}
 \documentclass[12pt, letterpaper]{article} % defines an "article" style document, font size, and paper size
@@ -151,7 +151,7 @@ If your document has a title, author, or specific date, define it in the preambl
 \date{\today}
 {% endhighlight %}
 
-This will show up in the title according to the default formatting dictated by the document class.  Insert your title with '\maketitle':
+This shows up in the title according to the default formatting dictated by the document class.  Insert your title with '\maketitle':
 
 {% highlight tex %}
 \begin{document} 
@@ -222,7 +222,7 @@ LaTeX is an excellent tool for making a pedestrian resumé look polished, but st
 - <a target="_blank" href="https://github.com/smholloway/resume/blob/master/latex/resume.tex">Template by Seth Holloway</a>
 
 
-I have included the <a target="_blank" href="https://github.com/mikeking214/LatexResumeTemplate">template I used for my CV</a>, which I based on a template by <a target="_blank" href="http://nitens.org/taraborelli/cvtex">Dario Taraborelli</a>, with some help from <a target="_blank" href="jaan.io">Jaan Altosaar</a>, and customized for my needs. A great way to learn LaTeX is to study a completed document, so I have filled the template with comments to explain what does what in the code.  It is an academic resume and contains more sections than you'll need, so include only what applies to you and make changes as you please.  In addition to formatting help, I have tried to include general resumé tips I've picked up, so use those as you wish. 
+I have included the <a target="_blank" href="https://github.com/mikeking214/LatexResumeTemplate">template I used for my CV</a>, which I based on a template by <a target="_blank" href="http://nitens.org/taraborelli/cvtex">Dario Taraborelli</a>, with some help from <a target="_blank" href="http://www.jaan.io">Jaan Altosaar</a>, and customized for my needs. A great way to learn LaTeX is to study a completed document, so I have filled the template with comments to explain what does what in the code.  It is an academic resume and contains more sections than you'll need, so include only what applies to you and make changes as you please.  In addition to formatting help, I have tried to include general resumé tips I've picked up, so use those as you wish. 
 
 ######Download the template from my <a target="_blank" href="https://github.com/mikeking214/LatexResumeTemplate">GitHub page</a> and get started!######
 

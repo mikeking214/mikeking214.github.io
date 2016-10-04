@@ -38,9 +38,9 @@ links:
     url: /articles 
   - title: Blog
     url: /blog
-  - title: Photography
-    url: http://michaelelliotphotography.com
-    external: true
+  # - title: Photography
+  #   url: http://michaelelliotphotography.com
+  #   external: true
   - title: CV
     url: /cv
   - title: Contact

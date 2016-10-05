@@ -405,6 +405,7 @@ body {
   font-family: 'Crimson Text', serif;
   color: #333332;
   font-size: 18pt;
+  line-height: 14pt;
 }
 h1,
 h2,
@@ -450,7 +451,7 @@ figcaption {
   padding-top: 10px;
   font-size: 18px;
   font-size: 1rem;
-  line-height: 1.3889pt;
+  line-height: 0.7778pt;
   line-height: 1.3;
   color: #4d4d4b;
 }
@@ -464,7 +465,7 @@ figcaption {
   text-align: right;
   font-size: 16px;
   font-size: 0.88888889rem;
-  line-height: 1.5625pt;
+  line-height: 0.875pt;
   line-height: 1.3;
   font-style: italic;
   color: #80807e;
@@ -498,19 +499,19 @@ blockquote {
 .footnotes p {
   font-size: 18px;
   font-size: 1rem;
-  line-height: 1.3889pt;
-  margin-bottom: 33.33333333px;
-  margin-bottom: 1.38888889rem;
+  line-height: 0.7778pt;
+  margin-bottom: 18.66666667px;
+  margin-bottom: 0.77777778rem;
 }
 footer {
   font-family: 'Crimson Text', serif;
 }
 p {
-  margin: 0 0 1.38888889rem;
+  margin: 0 0 0.77777778rem;
 }
 p + p {
-  text-indent: 1.38888889rem;
-  margin-top: -1.38888889rem;
+  text-indent: 0.77777778rem;
+  margin-top: -0.77777778rem;
 }
 tt,
 code,
@@ -564,7 +565,7 @@ pre {
   font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
   font-size: 12px;
   font-size: 0.66666667rem;
-  line-height: 2.0833pt;
+  line-height: 1.1667pt;
   color: #333332;
   margin-bottom: 1.5em;
   -webkit-border-radius: 4px;
@@ -853,7 +854,7 @@ pre {
   font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
   font-size: 12px;
   font-size: 0.66666667rem;
-  line-height: 2.0833pt;
+  line-height: 1.1667pt;
   color: #333332;
   margin-bottom: 1.5em;
   -webkit-border-radius: 4px;

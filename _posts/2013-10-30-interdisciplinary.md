@@ -25,6 +25,7 @@ tags: [Jeremy, Cooperstock, CIM, Centre, Intelligent, Machines, Shared, Reality,
 </div> 
 
 ***
+
 The device is a mechanism that fits in the sole of a shoe and dynamically simulates the friction of a full range of surfaces.  The creation of this device is motivated by the need for high-fidelity simulation environments for slip scenarios.  These are needed to improve balance for conditioning and rehabilitation reasons, with such a large number of the over-65 population suffering fall-related injuries.  Additionally, this device could be used in an augmented reality setting, for research and entertainment purposes.  
 
 <div align="center">

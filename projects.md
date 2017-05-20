@@ -7,6 +7,6 @@ modified: 9-30-2013
 image:
   feature: website_projects.jpg
   credit: Michael Elliot Photography
-  creditlink: http://michaelelliotphotography.com
+  <!-- creditlink: http://michaelelliotphotography.com -->
 ---
 
